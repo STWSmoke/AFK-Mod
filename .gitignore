@@ -1,0 +1,20 @@
+
+# Logs et fichiers temporaires
+*.log
+*.tmp
+
+# Fichiers propres à Windows
+Thumbs.db
+Desktop.ini
+
+# Configuration locale des éditeurs
+.vscode/
+.idea/
+
+# Secrets éventuels
+.env
+.env.*
+
+# Fichiers de sauvegarde d'éditeur
+*.bak
+*.swp
